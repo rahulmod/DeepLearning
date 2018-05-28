@@ -1,0 +1,5 @@
+base_url = http://www.airlinequality.com/Forum/
+#base_url = http://www.mouthshut.com/product-reviews/Mega-Mart-Bangalore-reviews-925103466
+#base_url = http://www.mouthshut.com/product-reviews/Megamart-Chennai-reviews-925104102
+air_lines = emrts,brit_awys,ual,biman,flydubai
+limits = 10
