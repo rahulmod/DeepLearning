@@ -6,3 +6,5 @@ A generic web crawler that is implemented as an airline’s web crawler and as a r
 
 Expose a deep learning model as a Flask web service. This model uses Deep Learning algorithm from Tensorflow to predict the ad price based on web user parameters such as the IP address, ad size, ad position, and so on.
 
+Multi-threaded application using Falcon to predict ad price.
+
